@@ -1,0 +1,19 @@
+{
+  "name": "server_send_script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "SendScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./SendScript.js"
+  },
+  "author": "Broot4rce",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.2.0",
+    "node-vk-bot-api": "^3.3.7",
+    "query-string": "^6.13.5",
+    "request": "^2.88.2",
+    "xlsx": "^0.16.8"
+  }
+}
